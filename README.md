@@ -45,7 +45,7 @@ print(x)
 ### 1st Problem
 ![image](https://github.com/DEVADARSHAN2/LU-Decomposition/assets/119432150/3db27745-9082-4865-ba5c-cb2f3e6fed78)
 ### 2nd Problem
-![image](https://github.com/DEVADARSHAN2/LU-Decomposition/assets/119432150/763e7304-69c4-4f17-a1e2-4facfcacf587)
+![image](https://github.com/DEVADARSHAN2/LU-Decomposition/assets/119432150/54e3965e-a8bf-4e67-8b37-4031debc49ab)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
