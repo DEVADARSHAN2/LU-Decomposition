@@ -26,20 +26,8 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ```
-```
-Program to solve a matrix using LU decomposition.
-Developed by: DEVADARSHAN A S
-RegisterNumber:212222110007
 
-import numpy as np
-from scipy.linalg import lu_factor,lu_solve
-A= np.array(eval(input()))
-b= np.array(eval(input()))
-lu,piv=lu_factor(A)
-x=lu_solve((lu,piv),b)
-print(x)
- 
-```
+
 
 ## Output:
 ### 1st Problem
